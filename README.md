@@ -4,7 +4,8 @@ This repository contains various cybersecurity research projects. While using th
 Project 1: 
 Ahsan, Mostofa, and Kendall E. Nygard. "Convolutional Neural Networks with LSTM for Intrusion Detection." In CATA, vol. 69, pp. 69-79. 2020.
 
-Project 2: Ongoing
+Project 2:
+Ahsan, Mostofa Kamrul. "Increasing the Predictive Potential of Machine Learning Models for Enhancing Cybersecurity." PhD diss., North Dakota State University, 2021.
 
 Project 3: 
 Ahsan, Mostofa, Rahul Gomes, Md Minhaz Chowdhury, and Kendall E. Nygard. "Enhancing Machine Learning Prediction in Cybersecurity Using Dynamic Feature Selector." Journal of Cybersecurity and Privacy 1, no. 1 (2021): 199-218.
